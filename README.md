@@ -46,32 +46,7 @@ Those are later corroborated by longer, detailed, and delayed reports published 
 
 Each entry in the dataset — which refers to one specific event of violence — is tracked to at least one specific source. 
 
-<<<<<<< HEAD
 ## Civilian deaths
-=======
-## 3. Battle casualties
-
-## Source
-
-The [Uppsala Conflict Data Program (UCDP)](https://ucdp.uu.se/) is a data collection program established within the Department of Peace and Conflict Research at Uppsala University, Sweden.
-
-Its goal is to collect comparable data about conflicts worldwide, following a scholarly definition that allows for comparability between cases and countries, as well as over time.
-
-## Methodology
-
-The primary source for UCDP’s figures is news reports found through the [Factiva news aggregator](https://www.dowjones.com/professional/glossary/factiva/) maintained by the Dow Jones company. 
-
-Additional non-news sources are also used, including reports from NGOs and international organizations such as the United Nations. 
-
-All of those undergo further verification by the project researchers, who try to independently trace them back to a primary source (like witnesses or individual journalists) to assess their reliability. 
-
-After this assessment, each report is individually entered into a system that follows an extensive set of rules for conflict categorization, which is detailed here. 
- 
-Finally, the categorized entries undergo three rounds of checking, the last of which uses automated quality-control protocols. 
-
-More details can be found [here](https://www.uu.se/en/department/peace-and-conflict-research/research/ucdp/ucdp-methodology). 
-
-## Civilian deaths40
 
 ### Source
 
@@ -110,11 +85,6 @@ The United Nations High Commissioner for Refugees (UNHCR) [most recent data on r
 The UNHCR gathers data published by governments, international organizations, and the UNHCR itself, depending on the country, the availability of data, and the target population. The compilation of data follows different protocols set up by the Expert Group on Refugee and IDP Statistics (EGRIS), part of the UN Statistical Commission.
 
 A detailed description of the methodology and further documentation can be found [here](https://www.unhcr.org/refugee-statistics/methodology).
-
-
-### Methodology
-
-The latest survey was conducted face-to-face with 25,265 EU citizens in the 27 member countries. Details about each of the surveys can be found on the [Eurobarometer website](https://europa.eu/eurobarometer/surveys/detail/3215).
 
 ---  
 
