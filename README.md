@@ -2,9 +2,9 @@
 
 This repository contains the source code and data files used in [this](#) DW article.  
 
-Each chart, except for items 4 and 7, has corresponding files in the `code` directory, documenting all steps taken in data cleaning and analysis. The files used to create the interactive Datawrapper charts are in the `output` directory.  
+Each chart, except for the one about civil casualties, has corresponding files in the `code` directory, documenting all steps taken in data cleaning and analysis. The files used to create the interactive Datawrapper charts are in the `output` directory.  
 
-Charts 4 and 7 are simplified reproductions of data published by other institutions. Their sources (a PDF and an Excel file, respectively) are available in the `data` directory.  
+Data for the civil casualties chart (a PDF file, which was manually transcribed) is available in the `data` directory.  
 
 The `charts` directory contains PNG versions of the charts published in the article.  
 
@@ -12,7 +12,7 @@ The `charts` directory contains PNG versions of the charts published in the arti
 
 # Details about sources and datapoints
 
-## **1. Area controlled by Russia**
+## Area controlled by Russia
 
 ### Sources
 
@@ -30,7 +30,7 @@ In turn, George Barros, head of the Russia and Geospatial Intelligence teams at 
 
 He gave a full overview of the methodology behind the maps at [this online meet-up](https://www.youtube.com/watch?v=1iTbT9VyVNo).
 
-## 2. Type of attacks conducted
+## Type of attacks conducted
 
 ### Sources
 
@@ -46,27 +46,7 @@ Those are later corroborated by longer, detailed, and delayed reports published 
 
 Each entry in their dataset – which refers to one specific event of violence – is tracked to at least one specific source.
 
-## 3. Battle casualties
-
-## Source
-
-Uppsala Conflict Data Program (UCDP), a data collection program established within the Department of Peace and Conflict Research at Uppsala University, Sweden. Its goal is to collect comparable data about conflicts worldwide, following a scholarly definition that allows for comparability between cases and countries, as well as over time.
-
-## Methodology
-
-The primary source for UCDP’s figures is news reports found through the [Factiva news aggregator](https://www.dowjones.com/professional/glossary/factiva/), maintained by the Dow Jones company.
-
-Additional non-news sources are also used, such as reports from NGOs and international organizations such as the United Nations.
-
-All of those undergo further verification by the project researchers, who try to independently trace them back to a primary source (like witnesses or individual journalists) to assess their reliability.
-
-After this assessment, each report is individually entered into a system that follows an extensive set of rules for conflict categorization, which is detailed [here](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=ucdp+glosary).
-
-Finally, the categorized entries undergo three rounds of checking, the last of those using automated quality control protocols.
-
-More details can be found [here](https://www.uu.se/en/department/peace-and-conflict-research/research/ucdp/ucdp-methodology).
-
-## 4. Civilian deaths
+## Civilian deaths
 
 ### Source
 
@@ -80,7 +60,7 @@ They claim that each report of civilian harm is vetted individually and cross-ch
 
 They acknowledge the true extent of civilian harm is probably underestimated, especially immediately after the start of the full-scale invasion in February 2022, and in areas where direct access was harder, such as Mariupol (Donetsk region), Lysychansk, Popasna, and Sievierodonetsk (Luhansk region).
 
-## 5. Civilian infrastructure damage
+## Civilian infrastructure damage
 
 ### Source
 
@@ -94,7 +74,7 @@ Bellingcat investigators check if the information is original, whether it was so
 
 They claim that their goal is to document how events in Ukraine are currently unfolding and to gather evidence for longer-term forensic research in the future.
 
-## 6. Refugees and internally displaced people
+## Refugees and internally displaced people
 
 ### Source
 
@@ -106,11 +86,6 @@ The UNHCR gathers data published by governments, international organizations, an
 
 A detailed description of the methodology and further documentation can be found [here](https://www.unhcr.org/refugee-statistics/methodology).
 
-## 7. European public opinion
-
-### Source
-
-[Eurobarometer](https://europa.eu/eurobarometer/screen/home), a series of public opinion surveys conducted on behalf of the European Commission.
 
 ### Methodology
 
